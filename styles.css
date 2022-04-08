@@ -132,10 +132,10 @@ body {
 }
 
 .footer ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding-inline-start: 0px;
 }
-  
-
-
 
 
